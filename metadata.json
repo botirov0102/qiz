@@ -1,0 +1,7 @@
+{
+  "name": "AI Partner Matcher",
+  "description": "Upload a photo of yourself, and our advanced AI will generate a perfectly matched companion by your side, blending seamlessly with your photo's style and lighting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
